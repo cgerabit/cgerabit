@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
-
+<a href="https://wakatime.com/@148b1054-a397-4986-b513-aeedcab660b6"><img src="https://wakatime.com/badge/user/148b1054-a397-4986-b513-aeedcab660b6.svg" alt="Total time coded since Jul 27 2021" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cgerabit" alt="cgerabit" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -14,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cgerabit&show_icons=true&locale=en&layout=compact" alt="cgerabit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cgerabit&show_icons=true&locale=en" alt="cgerabit" /></p>
+
+
